@@ -1,9 +1,9 @@
-# **AI Developer Assignment - Image Classification API**
+## **AI Developer Assignment - Image Classification API**
 
-## **📌 Overview**
+### **📌 Overview**
 This project implements an AI-powered image classification API using **FastAPI** and **PyTorch**. The application fine-tunes a pre-trained deep learning model and serves predictions via a REST API.
 
-## **📂 Project Structure**
+### **📂 Project Structure**
 \`\`\`
 📂 ai_developer_assignment/
 │── 📂 app/
@@ -16,7 +16,7 @@ This project implements an AI-powered image classification API using **FastAPI**
 │── venv/                      # Virtual environment (optional)
 \`\`\`
 
-## **🚀 Features**
+### **🚀 Features**
 - Loads and fine-tunes a pre-trained model (e.g., ResNet, EfficientNet).
 - Preprocesses and transforms images before inference.
 - Serves predictions via a FastAPI-based REST API.
@@ -24,7 +24,8 @@ This project implements an AI-powered image classification API using **FastAPI**
 
 ---
 
-## **⚙️ Installation**
+###
+**⚙️ Installation**
 ### **1️⃣ Clone the Repository**
 \`\`\`bash
 git clone https://github.com/danielmuthama23/ADFORD.git
